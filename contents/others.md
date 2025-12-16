@@ -18,7 +18,7 @@
 🟨 Л. Д. Ланда́у & Е. М. Ли́фшиц，流体动力学  
 🟥 陶文铨，传热学  
 🟥 余同希 & 邱信明，冲击动力学  
-🟥 J. D. Clayton, Nonlinear Elastic and Inelastic Models for Shock Compression of Crystalline Solids
+🟥 J. D. Clayton, NLE & IE Models for Shock Compression of Crystalline Solids
 
 🟨 H. Fossen, Structural Geology  
 🟥 H. J. Melosh, Impact Cratering  
