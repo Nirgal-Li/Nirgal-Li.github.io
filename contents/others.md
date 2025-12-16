@@ -24,3 +24,8 @@
 🟥 H. J. Melosh, Impact Cratering  
 🟥 D. L. Turcotte & G. Schubert, Geodynamics  
 🟥 P. M. Shearer, Intro. to Seismology  
+
+### 兴趣爱好 | Hobbies
+
+登山、跑步、骑行、羽毛球，健身为主，强度不高。  
+Hiking, running, cycling, badminton. All for general fitness at a low intensity.
