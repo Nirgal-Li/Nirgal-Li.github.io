@@ -41,5 +41,5 @@ Surface evolution of terrestrial bodies in the Solar System
 
 🟨 H. Fossen, Structural Geology  
 🟥 H. J. Melosh, Impact Cratering  
-🟥 P. M. Shearer, Intro. to Seismology  
 🟥 D. L. Turcotte & G. Schubert, Geodynamics  
+🟥 P. M. Shearer, Intro. to Seismology  
