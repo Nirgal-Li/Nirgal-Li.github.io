@@ -25,4 +25,4 @@ Hiking, running, cycling, badminton. All for general fitness at a low intensity.
 
 &ensp;
 
-### <center>地外开发 功在当代 利在千秋</center>
+### <center>地外开发&emsp;功在当代&emsp;利在千秋</center>
