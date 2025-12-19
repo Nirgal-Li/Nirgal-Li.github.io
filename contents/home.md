@@ -2,13 +2,13 @@
 Master’s student in Space Physics at Sun Yat-Sen University
 
 ***
-&emsp;
+&ensp;
 
 ### 联系方式 | Contact
 
 lijp79@mail2.sysu.edu.cn
 
-&emsp;
+&ensp;
 
 ### 教育经历 | Education
 
@@ -17,7 +17,7 @@ lijp79@mail2.sysu.edu.cn
 理学学士，武汉大学，物理学  
 Bachelor of Science in Physics, Wuhan University
 
-&emsp;
+&ensp;
 
 ### 研究方向 | Research Interests
 
