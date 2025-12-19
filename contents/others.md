@@ -1,4 +1,6 @@
 ***
+&emsp;
+
 ### 阅读计划 | Reading Schedule
 
 State&emsp; | Subject               | State&emsp;   | Subject
@@ -13,6 +15,9 @@ State&emsp; | Subject               | State&emsp;   | Subject
 🟥&emsp;    | 群论                 | 🟨&emsp;       | 构造地质学
 🟥&emsp;    | 拓扑学               | 🟥&emsp;       | 地球动力学
 🟥&emsp;    | 微分几何             | 🟥&emsp;       | 地震学
+
+***
+&emsp;
 
 ### 兴趣爱好 | Hobbies
 
