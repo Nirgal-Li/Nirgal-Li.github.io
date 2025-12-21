@@ -1,6 +1,13 @@
 ***
 &ensp;
 
+### 兴趣爱好 | Hobbies
+
+登山、跑步、骑行、羽毛球，健身为主，强度不高。  
+Hiking, running, cycling, badminton. All for general fitness at a low intensity.
+
+&ensp;
+
 ### 阅读计划 | Reading Schedule
 
 State&ensp; | Subject               | State&ensp;   | Subject
@@ -15,13 +22,6 @@ State&ensp; | Subject               | State&ensp;   | Subject
 🔴&ensp; | 群论                 | 🟡&ensp; | 构造地质学
 🔴&ensp; | 拓扑学               | 🟠&ensp; | 地球动力学
 🔴&ensp; | 微分几何             | 🔴&ensp; | 地震学
-
-&ensp;
-
-### 兴趣爱好 | Hobbies
-
-登山、跑步、骑行、羽毛球，健身为主，强度不高。  
-Hiking, running, cycling, badminton. All for general fitness at a low intensity.
 
 &ensp;
 
