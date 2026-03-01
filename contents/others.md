@@ -3,7 +3,8 @@
 
 ### 技能证书 | Certificates
 
-英语六级（CET-6）：555
+大学英语六级考试：555 分  
+College English Test Band 6 (CET-6) – Score: 555
 
 &ensp;
 
