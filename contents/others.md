@@ -23,12 +23,12 @@ State&ensp; | Subject               | State&ensp;   | Subject
 🔵&ensp; | 数学物理方法         | 🔴&ensp; | 塑性力学
 🔵&ensp; | 经典力学             | 🟡&ensp; | 流体动力学
 🔵&ensp; | 电动力学             | 🔴&ensp; | 传热学
-🔵&ensp; | 热力学与统计物理学   | 🔴&ensp; | 冲击动力学
-🔵&ensp; | 量子力学             | 🟠&ensp; | 固体冲击压缩模型
-🔵&ensp; | 固体物理             | 🔴&ensp; | 撞击成坑
-🔴&ensp; | 群论                 | 🟡&ensp; | 构造地质学
-🔴&ensp; | 拓扑学               | 🟠&ensp; | 地球动力学
-🔴&ensp; | 微分几何             | 🔴&ensp; | 地震学
+🔵&ensp; | 热力学与统计物理     | 🔴&ensp; | 冲击物理
+🔵&ensp; | 量子力学             | 🟡&ensp; | 撞击成坑
+🔵&ensp; | 固体物理             | 🟡&ensp; | 构造地质学
+🔴&ensp; | 群论                 | 🟠&ensp; | 地球动力学
+🔴&ensp; | 拓扑学               | 🔴&ensp; | 地震学
+🔴&ensp; | 微分几何             | 🔴&ensp; | 勘探地球物理
 
 &ensp;
 
